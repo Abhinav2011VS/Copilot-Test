@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Error><Code>AccountRequiresHttps</Code><Message>The account being accessed does not support http.
+RequestId:a76a0086-101e-00b1-7898-7b4c2b000000
+Time:2024-03-21T14:01:31.1475339Z</Message><AccountName>hostme</AccountName></Error>
